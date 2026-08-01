@@ -1,0 +1,8 @@
+streamlit
+transformers
+torch
+scikit-learn
+pydub
+SpeechRecognition
+openai-whisper
+fact-check-client
